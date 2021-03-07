@@ -1,0 +1,15 @@
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\bin\Debug\ProjectArrayList.exe.config
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\bin\Debug\ProjectArrayList.exe
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\bin\Debug\ProjectArrayList.pdb
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.csprojAssemblyReference.cache
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\MainWindow.g.cs
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\App.g.cs
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList_MarkupCompile.cache
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList_MarkupCompile.lref
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\MainWindow.baml
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.g.resources
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.Properties.Resources.resources
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.csproj.GenerateResource.cache
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.csproj.CoreCompileInputs.cache
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.exe
+C:\Users\heart\source\repos\ProjectArrayList\ProjectArrayList\obj\Debug\ProjectArrayList.pdb
